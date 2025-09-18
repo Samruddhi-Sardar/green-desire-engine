@@ -3,7 +3,7 @@
 This repository contains the code, visuals, and analysis for my MSc dissertation at the University of Southampton (2025).
 
 ## 🎯 Project Overview
-The *Green Desire Engine* is an AI toolkit designed to forecast adoption of eco-innovations in the luxury automotive sector (e.g., vegan leather, solar roofs, recycled materials).  
+The *Sustainable Prestige* is an AI toolkit designed to forecast adoption of eco-innovations in the luxury automotive sector (e.g., vegan leather, solar roofs, recycled materials).  
 
 - Collected and processed multi-source consumer discourse (reviews, forums, brand comms, news).  
 - Tagged sustainability features via hybrid rules + context classifier.  
