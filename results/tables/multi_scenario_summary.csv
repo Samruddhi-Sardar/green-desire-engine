@@ -1,0 +1,7 @@
+brand,base_brand_rank,base_top2_mean,min_delta_rank_improve,min_delta_top2_increase
+lucid,1,-0.7263286489804529,,-0.05
+tesla,2,-0.7480141917211226,-0.05,-0.05
+rollsroyce,3,-0.8594539471793019,,
+ferrari,4,-0.8911933130126501,,
+bentley,5,-0.9125348191887562,-0.2,-0.05
+porsche,6,-0.9451071916235061,0.2,

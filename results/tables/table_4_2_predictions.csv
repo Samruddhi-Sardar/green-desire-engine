@@ -1,0 +1,6 @@
+brand,feature,true_adoption,pred_adoption,mentions,avg_conf
+bentley,fast_charging,1.0,1.0,8.0,0.934
+lucid,fast_charging,0.938,0.938,16.0,0.931
+porsche,fast_charging,0.714,0.714,7.0,0.885
+rollsroyce,fast_charging,1.0,1.0,12.0,0.944
+tesla,fast_charging,0.704,0.704,27.0,0.875

@@ -1,0 +1,6 @@
+brand,feature,mentions,pos_share,neu_share,neg_share,avg_conf
+tesla,fast_charging,27,0.704,0.0,0.296,0.875
+lucid,fast_charging,16,0.938,0.0,0.062,0.931
+rollsroyce,fast_charging,12,1.0,0.0,0.0,0.944
+bentley,fast_charging,8,1.0,0.0,0.0,0.934
+porsche,fast_charging,7,0.714,0.143,0.143,0.885

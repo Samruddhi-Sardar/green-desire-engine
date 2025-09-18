@@ -1,0 +1,12 @@
+brand,feature,base_rank,base_score,base_pos_share,min_delta_improve,min_delta_top3,min_delta_top1
+tesla,solar_roof,1,-0.5141593863510812,1.0,,0.0,0.0
+lucid,fast_charging,2,-0.7220676487973127,0.9375,,0.0,
+lucid,energy_efficiency,3,-0.7305896491635931,1.0,,0.0,
+rollsroyce,fast_charging,4,-0.8594539471793019,1.0,,,
+bentley,recycled_materials,5,-0.8866217082951939,1.0,,,
+ferrari,fast_charging,6,-0.8911933130126501,1.0,,,
+bentley,fast_charging,7,-0.9384479300823185,1.0,,,
+porsche,fast_charging,8,-0.9451071916235061,0.7142857142857143,0.05,,
+tesla,solid_state_battery,9,-0.981868997091164,0.5,,,
+lucid,solar_roof,10,-1.046331484187481,0.5,,,
+tesla,fast_charging,11,-1.1811256007235784,0.7037037037037037,,,

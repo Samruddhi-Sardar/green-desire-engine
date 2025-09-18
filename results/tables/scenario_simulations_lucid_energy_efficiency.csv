@@ -1,0 +1,8 @@
+brand,feature,delta_pos_share,new_pos_share,new_score,new_rank,base_rank,base_score
+lucid,energy_efficiency,-0.2,0.8,-0.7305896491635931,3,3,-0.7305896491635931
+lucid,energy_efficiency,-0.1,0.9,-0.7305896491635931,3,3,-0.7305896491635931
+lucid,energy_efficiency,-0.05,0.95,-0.7305896491635931,3,3,-0.7305896491635931
+lucid,energy_efficiency,0.0,1.0,-0.7305896491635931,3,3,-0.7305896491635931
+lucid,energy_efficiency,0.05,1.0,-0.7305896491635931,3,3,-0.7305896491635931
+lucid,energy_efficiency,0.1,1.0,-0.7305896491635931,3,3,-0.7305896491635931
+lucid,energy_efficiency,0.2,1.0,-0.7305896491635931,3,3,-0.7305896491635931

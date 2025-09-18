@@ -1,0 +1,7 @@
+features,rmse,spearman,auc,ap,config
+brand+feature+mentions+pos_share+avg_conf,1.739450643348831,0.36779978227548915,,0.0,full
+brand+feature+mentions+avg_conf,1.7395435672313728,0.7107482279107425,,0.0,no_pos_share
+brand+feature+mentions+pos_share,1.7395138752471104,0.36779978227548915,,0.0,no_avg_conf
+brand+feature+pos_share+avg_conf,1.7131174551191568,0.05964320793656582,,0.0,no_mentions
+feature+mentions+pos_share+avg_conf,1.7348620713728018,0.014910801984141455,,0.0,no_brand_ids
+brand+feature,1.707172833412077,0.6212834160058938,,0.0,minimal

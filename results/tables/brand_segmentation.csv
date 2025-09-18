@@ -1,0 +1,7 @@
+brand,n_pairs,best_feature,best_score,top2_mean_score,avg_pos_share,total_mentions,segment
+lucid,3,fast_charging,1.0,0.99375,0.8125,21.0,Leader
+ferrari,1,fast_charging,0.9875,0.9875,1.0,3.0,Leader
+rollsroyce,1,fast_charging,0.9875,0.9875,1.0,12.0,Leader
+porsche,1,fast_charging,0.9249121592614514,0.9249121592614514,0.7142857142857143,7.0,Niche
+bentley,2,recycled_materials,0.9875,0.8677661134568058,1.0,10.0,Watchlist
+tesla,3,solar_roof,0.9895833333333334,0.831518121412052,0.7345679012345679,31.0,Watchlist
