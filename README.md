@@ -1,4 +1,4 @@
-# 🌱 Green Desire Engine – Predictive Analytics for Sustainable Luxury Automotive Adoption
+# 🌱 Sustainable Prestige: Predicting Luxury Car Buyer Behaviour
 
 This repository contains the code, visuals, and analysis for my MSc dissertation at the University of Southampton (2025).
 
